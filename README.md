@@ -1,2 +1,2 @@
-# spotify-ananlysis
+# spotify-analysis
 spotify playlist analysis
